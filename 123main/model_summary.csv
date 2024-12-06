@@ -1,3 +1,0 @@
-name,layers,parameters,GFLOPs,epoch
-yolov8s_DWC & Swin,235,6387883,16.493759999999998,246
-YOLOv8s,225,11135987,28.6469632,276
